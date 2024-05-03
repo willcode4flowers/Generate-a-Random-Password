@@ -19,22 +19,22 @@ body {
       color: #ffffff; 
       margin-top: 75px;
       margin-bottom: 5px; 
-      
+      font-family: "Karla", sans-serif;    
+      font-weight:  800; 
+      font-size: 40px; 
+      font-style: normal; 
+      line-height: 40px;
   }
   
   .titleTwo {
     color: #10B981;
     margin-top: 5px; 
     margin-bottom: 5px;
-    
-  }
-
-  .titleDup {
     font-family: "Karla", sans-serif;    
     font-weight:  800; 
     font-size: 40px; 
     font-style: normal; 
-    line-height: 40px;
+    line-height: 40px; 
   }
   
   .titleDesc {
@@ -45,8 +45,7 @@ body {
     font-size: 20px; 
     font-style: normal; 
   }
-
-
+  
   #passwordBtn {
       margin-top: 40px; 
       margin-bottom: 35px; 
@@ -67,7 +66,7 @@ body {
   } 
   
   
-  #passwordBoxOne, #passwordBoxTwo {
+  #passwordBoxOne {
       background: #273549;
       border-radius: 10px;
       height: 30px;
@@ -80,5 +79,15 @@ body {
       padding-bottom: 5px;  
   }
   
-
-  
+  #passwordBoxTwo {
+      background: #273549;
+      border-radius: 10px;
+      height: 30px;
+      margin: 30px auto; 
+      width: 211px; 
+      color: #10B981; 
+      text-align: center; 
+      font-size: 18px;
+      padding-top: 10px;
+      padding-bottom: 5px; 
+  }
