@@ -1,32 +1,29 @@
 
 body { 
     margin: 100px;
-    background-color: black; 
-    
+    background-color: black;  
   }
   
   .mainContainer {
-      width: 500px;
-      height: 500px; 
-      margin: 0px auto;
-      border-radius: 15px; 
-      border: 5px solid white;
-      padding: 50px;  
-      background: #111827; 
+    width: 500px;
+    height: 500px; 
+    margin: 0px auto;
+    border-radius: 15px; 
+    border: 5px solid white;
+    padding: 50px;  
+    background: #111827; 
   }
   
   .titleOne {
-      color: #ffffff; 
-      margin-top: 75px;
-      margin-bottom: 5px; 
-      
+    color: #ffffff; 
+    margin-top: 75px;
+    margin-bottom: 5px;     
   }
   
   .titleTwo {
     color: #10B981;
     margin-top: 5px; 
-    margin-bottom: 5px;
-    
+    margin-bottom: 5px;  
   }
 
   .titleDup {
@@ -65,7 +62,6 @@ body {
   .flexContainer {
       display: flex;
   } 
-  
   
   #passwordBoxOne, #passwordBoxTwo {
       background: #273549;
